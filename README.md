@@ -1,2 +1,2 @@
 # AngularGames
-GamesImplemented in Angular (1.x to 6)
+Games implemented in Angular (1.x to 6)
